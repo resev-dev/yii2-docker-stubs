@@ -1,0 +1,6 @@
+.idea
+
+/mysql-data/*
+/www/*
+!/www/app
+/www/app/*
